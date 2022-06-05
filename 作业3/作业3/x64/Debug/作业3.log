@@ -1,0 +1,4 @@
+﻿  test.c
+E:\2022版本3-16\作业3\作业3\test.c(70,18): warning C4013: “strlen”未定义；假设外部返回 int
+E:\2022版本3-16\作业3\作业3\test.c(90,19): warning C4013: “strcmp”未定义；假设外部返回 int
+  作业3.vcxproj -> E:\2022版本3-16\作业3\x64\Debug\作业3.exe
